@@ -5,7 +5,7 @@
       "b": ""
     },
     "extraType": "ResItemMaterialOmtl",
-    "name": "Unlit",
+    "name": "Background",
     "objGuid": "Guid(4628538273811631069, 12904440618990577057)",
     "rttiType": "Material",
     "version": "0.1.0",

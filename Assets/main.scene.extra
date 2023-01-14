@@ -116,5 +116,559 @@
     "expanded": true,
     "editable": true,
     "shadowAdvanceExpanded": false
+  },
+  {
+    "guid": {
+      "a": "ddd12565-ebde-a321-cde4-9205c487a4b5",
+      "b": ""
+    },
+    "objGuid": "Guid(4959123668758155292, 16035209563083502978)",
+    "extraType": "Entity",
+    "name": "2D Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "uniqueSign": "Camera2D"
+  },
+  {
+    "guid": {
+      "a": "9a601194-48f5-9846-5b4b-aaf85904bdf1",
+      "b": ""
+    },
+    "objGuid": "Guid(4665514792727432936, 18008940741565183873)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_transform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "d853a94f-a82c-70aa-e4f9-3fefbe59ac00",
+      "b": ""
+    },
+    "objGuid": "Guid(5713934610343260839, 11026940570586970271)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_camera",
+    "expanded": true,
+    "editable": true,
+    "usage": "2D"
+  },
+  {
+    "guid": {
+      "a": "88ebf1b2-f6f9-549a-c2fa-e5993fac1a1f",
+      "b": ""
+    },
+    "objGuid": "Guid(5040252841728254579, 8502260196797559170)",
+    "extraType": "Entity",
+    "name": "Canvas",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "bf6b442b-5220-70a3-27cd-61acbc377c42",
+      "b": ""
+    },
+    "objGuid": "Guid(4901424544006991210, 15645451133885139644)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "287c7ab0-d64a-98af-6632-8143b5d0407a",
+      "b": ""
+    },
+    "objGuid": "Guid(4873427710866608243, 18019530729021255818)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "7dd8a29e-8636-7b91-e04f-a15587adb86e",
+      "b": ""
+    },
+    "objGuid": "Guid(4729690772619609956, 17362508475480813994)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_transform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "26d4c47e-bce7-2357-2de0-2e9f2354d7a0",
+      "b": ""
+    },
+    "objGuid": "Guid(4772426689487013158, 16681477367977789615)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      0,
+      0,
+      51.18853759765625
+    ],
+    "rotation": [
+      0,
+      0,
+      0.43199554085731506,
+      0.9018757343292236
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_transform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "febaa4b8-b4c6-121f-ceff-370d819d1060",
+      "b": ""
+    },
+    "objGuid": "Guid(5533624620302178091, 9263751977665843858)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      0,
+      0,
+      47.67765426635742
+    ],
+    "rotation": [
+      0,
+      0,
+      0.40416526794433594,
+      0.9146859645843506
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_transform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "2a3cec68-dc4b-3acf-452f-517740e0e92d",
+      "b": ""
+    },
+    "objGuid": "Guid(4671582420144416448, 5248357847539806645)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      358.18341064453125,
+      17.401439666748047,
+      65.32565307617188
+    ],
+    "rotation": [
+      0.06843936443328857,
+      0.1357918679714203,
+      0.5354351997375488,
+      0.8307742476463318
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_transform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "0d48651b-cc70-ab8d-ebae-7c9dac94d46e",
+      "b": ""
+    },
+    "objGuid": "Guid(5467439092656818571, 12804205318391404708)",
+    "extraType": "IFLayer2d",
+    "name": "Canvas",
+    "rttiType": "IFLayer2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_canvas",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "27914187-42a6-77e3-a3e7-87e25f5ac677",
+      "b": ""
+    },
+    "objGuid": "Guid(5454705572068746355, 5221125111475229877)",
+    "extraType": "IFCanvas2d",
+    "name": "Canvas Scaler",
+    "rttiType": "IFCanvas2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_canvasscaler",
+    "expanded": true,
+    "editable": true,
+    "scaleFactor": "Screen Size"
+  },
+  {
+    "guid": {
+      "a": "761e101d-6656-e268-f1ff-dadfae21df78",
+      "b": ""
+    },
+    "objGuid": "Guid(5103216655552925433, 13097789423838829226)",
+    "extraType": "Entity",
+    "name": "Image",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "cbfdc999-0741-85e4-ce3b-09b7a5cc973d",
+      "b": ""
+    },
+    "objGuid": "Guid(4792435358452532843, 7780063535270246282)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "0480a4d1-22a6-2cbb-6799-48b816042d11"
+  },
+  {
+    "guid": {
+      "a": "fc6dc9f7-e2cb-e8da-b014-1d3007f3f98e",
+      "b": ""
+    },
+    "objGuid": "Guid(5462737538255150202, 3871251658067487151)",
+    "extraType": "Entity",
+    "name": "Face Binding",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "93dcfe54-f8ad-743b-f6f9-100c36aba388",
+      "b": ""
+    },
+    "objGuid": "Guid(5596772836683547028, 15630689215766052025)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "anchor": "Face Center",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_facebinding",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "bbe5c316-c1ad-617e-ab91-d13eb39e0ec6",
+      "b": ""
+    },
+    "objGuid": "Guid(4970053311974606984, 13606932598267636354)",
+    "extraType": "Entity",
+    "name": "Mouth",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "932f194e-3347-4a17-904d-e9752694b2dc",
+      "b": ""
+    },
+    "objGuid": "Guid(5133923189878985817, 14282067724101187483)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_meshrenderer",
+    "expanded": false,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "e73ab356-f355-c863-b94d-241f714d0a3e",
+      "b": ""
+    },
+    "objGuid": "Guid(5082871816021975054, 13705553184113540794)",
+    "extraType": "FaceInset",
+    "name": "Face Inset",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_faceinset",
+    "expanded": true,
+    "editable": true,
+    "faceArea": "Mouth",
+    "faceIndex": 0,
+    "faceType": "Human face",
+    "opacity": 1,
+    "blendMode": "Disable",
+    "useFillColor": false,
+    "fillColorR": 1,
+    "fillColorG": 1,
+    "fillColorB": 1,
+    "fillColorA": 0,
+    "useFeathering": true,
+    "featheringScale": 1,
+    "featheringQuality": 3,
+    "useOutline": false,
+    "outlineColorR": 1,
+    "outlineColorG": 1,
+    "outlineColorB": 1,
+    "outlineColorA": 1,
+    "outlineThickness": 0.5,
+    "useDepthTest": false,
+    "rtSize": "512 * 512",
+    "useFaceExtra": true,
+    "inputTextureType": "Camera input texture",
+    "isFirstCreation": false,
+    "qualityLevel": "MQ"
+  },
+  {
+    "guid": {
+      "a": "be96a841-5f30-1742-f638-866a36fc8c01",
+      "b": ""
+    },
+    "objGuid": "Guid(4627237261858403349, 8474241685466183615)",
+    "extraType": "Entity",
+    "name": "Left eye",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "7ad2130f-7eb3-4603-3e2e-e8b7bf28a3b5",
+      "b": ""
+    },
+    "objGuid": "Guid(5040121915313778345, 12625609555449509248)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_meshrenderer",
+    "expanded": false,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "7e68940b-f4b7-d21d-e5a6-34aae3e8f635",
+      "b": ""
+    },
+    "objGuid": "Guid(5703494226918351043, 13009114665940321184)",
+    "extraType": "FaceInset",
+    "name": "Face Inset",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_faceinset",
+    "expanded": true,
+    "editable": true,
+    "faceArea": "Left eye",
+    "faceIndex": 0,
+    "faceType": "Human face",
+    "opacity": 1,
+    "blendMode": "Disable",
+    "useFillColor": false,
+    "fillColorR": 1,
+    "fillColorG": 1,
+    "fillColorB": 1,
+    "fillColorA": 0,
+    "useFeathering": true,
+    "featheringScale": 1,
+    "featheringQuality": 3,
+    "useOutline": false,
+    "outlineColorR": 1,
+    "outlineColorG": 1,
+    "outlineColorB": 1,
+    "outlineColorA": 1,
+    "outlineThickness": 0.5,
+    "useDepthTest": false,
+    "rtSize": "512 * 512",
+    "useFaceExtra": true,
+    "inputTextureType": "Camera input texture",
+    "isFirstCreation": false,
+    "qualityLevel": "MQ"
+  },
+  {
+    "guid": {
+      "a": "b7e9b687-9006-5a90-0794-b273022a2f74",
+      "b": ""
+    },
+    "objGuid": "Guid(4940095257847887268, 10017936497637426068)",
+    "extraType": "Entity",
+    "name": "Right eye",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "039a31aa-8bb1-1c5c-53f4-8d6b3c13bffb",
+      "b": ""
+    },
+    "objGuid": "Guid(5183288817801762209, 677801332885552043)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_meshrenderer",
+    "expanded": false,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "73159320-b82a-1bcc-1bc3-25cdf33ae5b6",
+      "b": ""
+    },
+    "objGuid": "Guid(5644843609158046380, 16336425007435836042)",
+    "extraType": "FaceInset",
+    "name": "Face Inset",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_faceinset",
+    "expanded": true,
+    "editable": true,
+    "faceArea": "Right eye",
+    "faceIndex": 0,
+    "faceType": "Human face",
+    "opacity": 1,
+    "blendMode": "Disable",
+    "useFillColor": false,
+    "fillColorR": 1,
+    "fillColorG": 1,
+    "fillColorB": 1,
+    "fillColorA": 0,
+    "useFeathering": true,
+    "featheringScale": 1,
+    "featheringQuality": 3,
+    "useOutline": false,
+    "outlineColorR": 1,
+    "outlineColorG": 1,
+    "outlineColorB": 1,
+    "outlineColorA": 1,
+    "outlineThickness": 0.5,
+    "useDepthTest": false,
+    "rtSize": "512 * 512",
+    "useFaceExtra": true,
+    "inputTextureType": "Camera input texture",
+    "isFirstCreation": false,
+    "qualityLevel": "MQ"
   }
 ]
