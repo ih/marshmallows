@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "marshmallows",
-    "objGuid": "Guid(1461253305520438669, 10432049034970306456)",
+    "objGuid": "Guid(5552097750502582428, 15549064482478603136)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

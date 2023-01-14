@@ -1,12 +1,12 @@
 %YAML 1.1
 --- !Material &1
 name: Right Eye Face Inset
-guid: {a: 17529893347681046232, b: 9527114221740251285}
+guid: {a: 4971928740827252845, b: 16445741668122897558}
 xshader: {localId: 1, path: 00000000-0000-0000-0000-000000000017--00000000-0000-0000-0000-000000000017.xshader}
 properties:
   __class: PropertySheet
   name: ""
-  guid: {a: 9963330169633681618, b: 3375101251538922675}
+  guid: {a: 5276103755073402500, b: 2822838675961700502}
   floatmap:
     __class: Map
     _Rotation: 0
